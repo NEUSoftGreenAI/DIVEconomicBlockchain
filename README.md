@@ -3,8 +3,6 @@
 
  - Title: A Dual Incentive Value-based Paradigm for Improving the Business Market Profitability in Blockchain Token Economy;
  - Authors: Chaopeng Guo, Pengyi Zhang, Bangyao Lin, Jie Song*
- - E-mails: [guochaopeng@swc.neu.edu.cn](mailto:guochaopeng@swc.neu.edu.cn), [20185152@stu.neu.edu.cn](mailto:20185152@stu.neu.edu.cn),  
-[2071292@stu.neu.edu.cn](mailto:2071292@stu.neu.edu.cn), [songjie@mail.neu.edu.cn](mailto:songjie@mail.neu.edu.cn)
 ## *Experiment Environment*
 Language: Python
 Version: 3.8
